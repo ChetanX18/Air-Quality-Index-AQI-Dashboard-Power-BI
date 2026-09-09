@@ -126,16 +126,25 @@ Users can filter the dashboard by:
 
 ---
 
-## 💡 Key Insights
+## 🔍 Key Insights
 
-The dashboard helps users quickly answer questions such as:
+* **AQI varies significantly across cities**, highlighting differences in air-quality conditions between locations.
 
-* Which cities have the highest AQI?
-* Which locations have better or worse air quality?
-* How does AQI change over time?
-* Which pollutants contribute significantly to poor air quality?
-* How do pollutant levels differ between cities?
-* What percentage of locations fall into each AQI category?
+* **Highly polluted cities can be identified through the Top 10 AQI analysis**, making it easier to prioritize areas requiring closer monitoring.
+
+* **AQI trends over time reveal changes in air-quality conditions**, helping identify periods of increasing or decreasing pollution.
+
+* **Different pollutants show varying concentration levels across cities**, providing a deeper understanding of factors associated with poor air quality.
+
+* **AQI category analysis highlights the distribution of locations across Good, Satisfactory, Moderate, Poor, Very Poor, and Severe categories.**
+
+* **Geographical analysis makes regional pollution patterns easier to identify**, allowing users to compare air quality across different parts of India.
+
+* **Interactive filters enable users to drill down into specific cities, dates, and AQI categories**, making the dashboard useful for detailed exploration.
+
+### 💡 Overall Insight
+
+The dashboard demonstrates how raw air-quality data can be transformed into **clear, interactive, and actionable insights using Power BI**, supporting better understanding of pollution patterns and location-based air-quality conditions.
 
 ---
 
